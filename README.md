@@ -1,1 +1,1 @@
-# BSK
+Zadania praktyczne z przedmiotu Bezpieczeństwo Systemów Komputerowych
